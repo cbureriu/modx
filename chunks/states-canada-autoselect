@@ -1,0 +1,15 @@
+<select>
+	<option value="AB"[[+country:is=`AB`:then=` selected`]]>Alberta</option>
+	<option value="BC"[[+country:is=`BC`:then=` selected`]]>British Columbia</option>
+	<option value="MB"[[+country:is=`MB`:then=` selected`]]>Manitoba</option>
+	<option value="NB"[[+country:is=`NB`:then=` selected`]]>New Brunswick</option>
+	<option value="NL"[[+country:is=`NL`:then=` selected`]]>Newfoundland and Labrador</option>
+	<option value="NS"[[+country:is=`NS`:then=` selected`]]>Nova Scotia</option>
+	<option value="ON"[[+country:is=`ON`:then=` selected`]]>Ontario</option>
+	<option value="PE"[[+country:is=`PE`:then=` selected`]]>Prince Edward Island</option>
+	<option value="QC"[[+country:is=`QC`:then=` selected`]]>Quebec</option>
+	<option value="SK"[[+country:is=`SK`:then=` selected`]]>Saskatchewan</option>
+	<option value="NT"[[+country:is=`NT`:then=` selected`]]>Northwest Territories</option>
+	<option value="NU"[[+country:is=`NU`:then=` selected`]]>Nunavut</option>
+	<option value="YT"[[+country:is=`YT`:then=` selected`]]>Yukon</option>
+</select>
