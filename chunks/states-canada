@@ -1,4 +1,4 @@
-<select>
+<select id="state" name="state">
 	<option value="AB">Alberta</option>
 	<option value="BC">British Columbia</option>
 	<option value="MB">Manitoba</option>

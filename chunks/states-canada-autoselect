@@ -1,4 +1,4 @@
-<select>
+<select id="state" name="state">
 	<option value="AB"[[+country:is=`AB`:then=` selected`]]>Alberta</option>
 	<option value="BC"[[+country:is=`BC`:then=` selected`]]>British Columbia</option>
 	<option value="MB"[[+country:is=`MB`:then=` selected`]]>Manitoba</option>
