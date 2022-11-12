@@ -1,0 +1,68 @@
+[[!+country:is=`United States`:then=`
+<option value="AL"[[+state:is=`AL`:then=` selected`]]>Alabama</option>
+<option value="AK"[[+state:is=`AK`:then=` selected`]]>Alaska</option>
+<option value="AZ"[[+state:is=`AZ`:then=` selected`]]>Arizona</option>
+<option value="AR"[[+state:is=`AR`:then=` selected`]]>Arkansas</option>
+<option value="CA"[[+state:is=`CA`:then=` selected`]]>California</option>
+<option value="CO"[[+state:is=`CO`:then=` selected`]]>Colorado</option>
+<option value="CT"[[+state:is=`CT`:then=` selected`]]>Connecticut</option>
+<option value="DE"[[+state:is=`DE`:then=` selected`]]>Delaware</option>
+<option value="DC"[[+state:is=`DC`:then=` selected`]]>District Of Columbia</option>
+<option value="FL"[[+state:is=`FL`:then=` selected`]]>Florida</option>
+<option value="GA"[[+state:is=`GA`:then=` selected`]]>Georgia</option>
+<option value="HI"[[+state:is=`HI`:then=` selected`]]>Hawaii</option>
+<option value="ID"[[+state:is=`ID`:then=` selected`]]>Idaho</option>
+<option value="IL"[[+state:is=`IL`:then=` selected`]]>Illinois</option>
+<option value="IN"[[+state:is=`IN`:then=` selected`]]>Indiana</option>
+<option value="IA"[[+state:is=`IA`:then=` selected`]]>Iowa</option>
+<option value="KS"[[+state:is=`KS`:then=` selected`]]>Kansas</option>
+<option value="KY"[[+state:is=`KY`:then=` selected`]]>Kentucky</option>
+<option value="LA"[[+state:is=`LA`:then=` selected`]]>Louisiana</option>
+<option value="ME"[[+state:is=`ME`:then=` selected`]]>Maine</option>
+<option value="MD"[[+state:is=`MD`:then=` selected`]]>Maryland</option>
+<option value="MA"[[+state:is=`MA`:then=` selected`]]>Massachusetts</option>
+<option value="MI"[[+state:is=`MI`:then=` selected`]]>Michigan</option>
+<option value="MN"[[+state:is=`MN`:then=` selected`]]>Minnesota</option>
+<option value="MS"[[+state:is=`MS`:then=` selected`]]>Mississippi</option>
+<option value="MO"[[+state:is=`MO`:then=` selected`]]>Missouri</option>
+<option value="MT"[[+state:is=`MT`:then=` selected`]]>Montana</option>
+<option value="NE"[[+state:is=`NE`:then=` selected`]]>Nebraska</option>
+<option value="NV"[[+state:is=`NV`:then=` selected`]]>Nevada</option>
+<option value="NH"[[+state:is=`NH`:then=` selected`]]>New Hampshire</option>
+<option value="NJ"[[+state:is=`NJ`:then=` selected`]]>New Jersey</option>
+<option value="NM"[[+state:is=`NM`:then=` selected`]]>New Mexico</option>
+<option value="NY"[[+state:is=`NY`:then=` selected`]]>New York</option>
+<option value="NC"[[+state:is=`NC`:then=` selected`]]>North Carolina</option>
+<option value="ND"[[+state:is=`ND`:then=` selected`]]>North Dakota</option>
+<option value="OH"[[+state:is=`OH`:then=` selected`]]>Ohio</option>
+<option value="OK"[[+state:is=`OK`:then=` selected`]]>Oklahoma</option>
+<option value="OR"[[+state:is=`OR`:then=` selected`]]>Oregon</option>
+<option value="PA"[[+state:is=`PA`:then=` selected`]]>Pennsylvania</option>
+<option value="RI"[[+state:is=`RI`:then=` selected`]]>Rhode Island</option>
+<option value="SC"[[+state:is=`SC`:then=` selected`]]>South Carolina</option>
+<option value="SD"[[+state:is=`SD`:then=` selected`]]>South Dakota</option>
+<option value="TN"[[+state:is=`TN`:then=` selected`]]>Tennessee</option>
+<option value="TX"[[+state:is=`TX`:then=` selected`]]>Texas</option>
+<option value="UT"[[+state:is=`UT`:then=` selected`]]>Utah</option>
+<option value="VT"[[+state:is=`VT`:then=` selected`]]>Vermont</option>
+<option value="VA"[[+state:is=`VA`:then=` selected`]]>Virginia</option>
+<option value="WA"[[+state:is=`WA`:then=` selected`]]>Washington</option>
+<option value="WV"[[+state:is=`WV`:then=` selected`]]>West Virginia</option>
+<option value="WI"[[+state:is=`WI`:then=` selected`]]>Wisconsin</option>
+<option value="WY"[[+state:is=`WY`:then=` selected`]]>Wyoming</option>
+`]]
+[[!+country:is=`Canada`:then=`
+<option value="AB"[[+state:is=`AB`:then=` selected`]]>Alberta</option>
+<option value="BC"[[+state:is=`BC`:then=` selected`]]>British Columbia</option>
+<option value="MB"[[+state:is=`MB`:then=` selected`]]>Manitoba</option>
+<option value="NB"[[+state:is=`NB`:then=` selected`]]>New Brunswick</option>
+<option value="NL"[[+state:is=`NL`:then=` selected`]]>Newfoundland and Labrador</option>
+<option value="NS"[[+state:is=`NS`:then=` selected`]]>Nova Scotia</option>
+<option value="ON"[[+state:is=`ON`:then=` selected`]]>Ontario</option>
+<option value="PE"[[+state:is=`PE`:then=` selected`]]>Prince Edward Island</option>
+<option value="QC"[[+state:is=`QC`:then=` selected`]]>Quebec</option>
+<option value="SK"[[+state:is=`SK`:then=` selected`]]>Saskatchewan</option>
+<option value="NT"[[+state:is=`NT`:then=` selected`]]>Northwest Territories</option>
+<option value="NU"[[+state:is=`NU`:then=` selected`]]>Nunavut</option>
+<option value="YT"[[+state:is=`YT`:then=` selected`]]>Yukon</option>
+`]]
